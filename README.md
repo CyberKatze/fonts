@@ -1,7 +1,41 @@
 # My Favourite Fonts
 - Cascaydia Cove Nerd Font (NF patch for Cascadia Code)
-- Sauce Code Pro Nerd Font (NF patch for Source Code pro) 
-- Niloofar (Persian font)
+- Persian fonts:
+  - BFonts
+  - FarsiFonts
+  - FPF
+  - IranianSans
+  - IranNastaliq
+  - Lalezar
+  - Nahid
+  - Parastoo
+  - RFonts
+  - Sahel
+  - Samim
+  - Shabnam
+  - Tahoma
+  - Tanha
+  - VazirCode
+  - XBKayhan
+  - XBKhoramshahr
+  - XBNilufar
+  - XBRiyaz
+  - XBRoya
+  - XBShafigh
+  - XBShafighKurd
+  - XBShafighUzbek
+  - XBShiraz
+  - XBSols
+  - XBTabriz
+  - XBTitr
+  - XBTraffic
+  - XBVahid
+  - XBVosta
+  - XBYaghout
+  - XBYas
+  - XBYermook
+  - XBZar
+  - XBZiba
 
 ## How use it in Linux
 - Copy fonts in `~/.fonts` or clone directly
